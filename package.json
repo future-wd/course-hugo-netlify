@@ -1,0 +1,27 @@
+{
+  "name": "course-hugo-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/future-wd/course-hugo-netlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/future-wd/course-hugo-netlify/issues"
+  },
+  "homepage": "https://github.com/future-wd/course-hugo-netlify#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "postcss-cli": "^9.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0"
+  }
+}
